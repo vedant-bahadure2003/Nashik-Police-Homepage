@@ -6,7 +6,7 @@ import FloatingChatbot from "../FloatingChatbot";
 const Homepage = () => {
   return (
     <>
-      <div className="bg-white flex justify-center min-h-screen pt-20 w-full">
+      <div className="bg-white flex justify-center min-h-screen pt-20 w-full font-khand">
         <div
           className="flex flex-col md:flex-row bg-[#57462a] w-[95%] md:w-[90%] lg:w-[82%] h-auto md:h-[100vh] rounded-2xl overflow-visible"
           style={{
